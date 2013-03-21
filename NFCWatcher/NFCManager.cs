@@ -57,7 +57,7 @@ namespace net.encausse.nfc {
         pi.Display();
 
         // Start NFCHelper
-        NFCHelper.getInstance();
+        NFCHelper.getInstance(); 
 
         // Make sure the application runs!
         Application.Run();
